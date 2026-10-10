@@ -1,0 +1,14 @@
+{
+  "_comment": "Fill in the date you downloaded each file. analysis_as_of is optional (YYYY-MM-DD); if omitted, the latest 'Date of Update' in the shortage export is used.",
+  "orange_book": {
+    "files": ["products.txt", "patent.txt", "exclusivity.txt"],
+    "source": "https://www.fda.gov/drugs/drug-approvals-and-databases/orange-book-data-files",
+    "downloaded": "UNKNOWN - please record"
+  },
+  "drug_shortages": {
+    "files": ["Drugshortages.csv"],
+    "source": "https://www.accessdata.fda.gov/scripts/drugshortages/",
+    "downloaded": "UNKNOWN - please record (latest update in file: 2026-05-11)"
+  },
+  "analysis_as_of": null
+}
